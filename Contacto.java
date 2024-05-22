@@ -2,7 +2,7 @@ import java.io.*;
 
 // Define una clase llamada Contacto, que implementa la interfaz Serializable.
 class Contacto implements Serializable {
-    // Declara variables de instancia para almacenar la información del contacto.
+    // Declara variables de instancia para almacenar la información del Contacto.
     String nombre;
     String apellidos;
     String telefono;

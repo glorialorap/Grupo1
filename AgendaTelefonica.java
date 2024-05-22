@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class AgendaTelefonica {
     private static ArrayList<Contacto> agenda; // Declara un ArrayList estático para contener objetos de tipo Contacto.
-
+//
     public static void main(String[] args) {
         agenda = ManejadorAgenda.cargarAgenda(); // Llama a un método para cargar los datos de la agenda.
         Scanner scanner = new Scanner(System.in); // Inicializa un objeto Scanner para la entrada del usuario.

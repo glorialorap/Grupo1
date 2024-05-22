@@ -17,6 +17,7 @@ class Contacto implements Serializable {
     }
 
     // Método getter para obtener el nombre del contacto.
+    //
     public String getNombre() {
         return nombre;
     }
